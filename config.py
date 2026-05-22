@@ -1,0 +1,56 @@
+API_KEY="pub_eb26974fd2044222b11244022cbaf582"
+BASE_URL="https://newsdata.io/api/1/latest"
+
+COUNTRIES={
+    "india": "in",
+    "us":"us",
+    "usa": "us",
+    "united states": "us",
+    "unitedstates": "us",
+    "america": "us",
+    "uk": "gb",
+    "united kingdom": "gb",
+    "unitedkingdom": "gb",
+    "australia": "au",
+    "canada": "ca",
+    "germany": "de",
+    "france": "fr",
+    "japan": "jp",
+    "china": "cn",
+    "brazil": "br",
+    "russia": "ru",
+    "south africa": "za",
+    "southafrica": "za",
+    "pakistan": "pk",
+    "bangladesh": "bd",
+    "sri lanka": "lk",
+    "srilanka": "lk",
+    "singapore": "sg",
+    "uae": "ae",
+    "united arab emirates": "ae",
+    "unitedarabemirates": "ae",
+    "dubai": "ae"
+}
+
+LANGUAGES={
+    "english": "en",
+    "hindi": "hi",
+    "kannada": "kn",
+    "tamil": "ta",
+    "telugu": "te",
+    "malayalam": "ml",
+    "bengali": "bn",
+    "marathi": "mr",
+    "gujarati": "gu",
+    "punjabi": "pa",
+    "urdu": "ur",
+    "arabic": "ar",
+    "french": "fr",
+    "german": "de",
+    "spanish": "es",
+    "portuguese": "pt",
+    "russian": "ru",
+    "chinese": "zh",
+    "japanese": "ja",
+    "italian": "it"
+}
